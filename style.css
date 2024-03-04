@@ -1,0 +1,50 @@
+div{
+    font-size: 52px;
+}
+
+.qator-1{
+    background-color:aqua;
+    text-align: center;
+padding: 30px;
+}
+
+.left {
+    background-color: red;
+    width: 33%;
+    height: 300px;
+}
+
+.main{
+    background-color: green;
+    width:34%;
+    height: 300px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.right {
+    background-color: yellow;
+    width:34%;
+    height: 300px;
+    text-align: center;
+    padding: 30px;
+}
+
+.qator-2{
+    display: flex;
+}
+
+.qator-3{
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;;
+    padding: 50px;
+    justify-content: center;
+}
+
+.footer {
+    background-color: chartreuse;
+    width: 20%;
+text-align: center;
+padding: 30px;
+}
